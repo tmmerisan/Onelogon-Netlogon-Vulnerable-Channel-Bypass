@@ -137,6 +137,6 @@ Remove-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\Netlogon\Para
 
 ## 6. References
 
-- CVE-2020-1472 — Netlogon Elevation of Privilege Vulnerability (Zerologon)
+- CVE-2020-1472 [https://nvd.nist.gov/vuln/detail/cve-2020-1472] — Netlogon Elevation of Privilege Vulnerability (Zerologon)
 - Microsoft: `VulnerableChannelAllowList` / Netlogon secure channel enforcement guidance
 - Neff, Holl, Borgolte — ["Onelogon: Taking over Active Directory Accounts via Netlogon"](https://github.com/rub-softsec/onelogon), USENIX WOOT 2026 (Ruhr University Bochum)
